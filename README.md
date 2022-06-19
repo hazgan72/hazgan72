@@ -43,7 +43,7 @@ I really like innovation in website development. I am a learner who likes new th
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazgn" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazgn&layout=compact" />
 
 </div>
 

@@ -16,19 +16,24 @@
 ---
 
 <div align="center">
+
+[![Hazgn stat](https://github-readme-stats.vercel.app/api?username=hazgn&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgn)
+
+</div>
+
+<div align="center">
 Welcome to the page! 👋 I'm Hazgn, 👀 Full Stack developer from D.K.I Jakarta, Indonesia.
 
 I really like innovation in website development. I am a learner who likes new things and wants to continue to develop in my abilities, especially in terms of website development.
 </div>
 
+---
+
 <div align="center">
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=hazgn&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgn)
-
+[![gif](./assets/gif/programmer.gif)](https://github.com/hazgn)
 </div>
 
-
----
 
 <div align="center">
 👀 I’m interested in Website Development
@@ -43,6 +48,8 @@ I really like innovation in website development. I am a learner who likes new th
 </div>
 
 ---
+
+<!-- source gif = https://tenor.com/view/programmer-gif-19019116 -->
 
 <!-- -
 HaZG8n/HaZG8n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

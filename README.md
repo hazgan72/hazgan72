@@ -39,7 +39,7 @@ I really like innovation in website development. I am a learner who likes new th
 👀 I’m interested in Website Development
 🌱 I’m currently learning HTML, CSS, Js, PHP, and other frameworks website based
 💞️ I’m looking to collaborate on Web Apps
-📫 How to reach me <a href="mailto:hazgn7x@gmail.com">Send an Email </a>( 2nd email )
+📫 How to reach me <a href="mailto:hazgnxv@gmail.com">Send an Email </a>( 2nd email )
 
 ---
 

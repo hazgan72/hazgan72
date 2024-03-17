@@ -1,16 +1,14 @@
 [![img](./assets/img/header%20github.png)](https://github.com/hazgnxvi)
+   
 
 <div align="center">
-    <img src="https://gpvc.arturio.dev/hazgnxvi" alt="profile views" /> •
-    <a href="https://github.com/hazgnxvi">
-      <img src="https://img.shields.io/github/followers/hazgnxvi?label=hazgnxvi&style=social" /> 
-    </a> •
-    <a href="https://twitter.com/intent/follow?screen_name=hazgnxvi_&tw_p=followbutton">
-    <img src="https://img.shields.io/twitter/follow/hazgnxvi_?label=%40hazgnxvi_&style=social" />
-    </a> •
-    <a href="https://www.twitch.tv/hazgnxvi">
-    <img src="https://img.shields.io/twitch/status/hazgnxvi?label=hazgnxvi&style=social" />
-    </a>
+
+[![github](https://img.shields.io/github/followers/hazgnxvi?label=hazgnxvi&style=social)](https://github.com/hazgnxvi)
+[![discord](https://img.shields.io/static/v1?logo=discord&label=hazgnxvi&message=chat&color=36393f&style=social)](discordapp.com/users/428460899171434497)
+[![twitter](https://img.shields.io/twitter/follow/hazgnxvi?label=hazgnxvi&style=social)](https://twitter.com/intent/follow?screen_name=hazgnxvi&tw_p=followbutton)
+[![Twitch Status](https://img.shields.io/twitch/status/hazgnxvi?style=social&label=hazgnxvi)](https://twitch.tv/hazgnxvi)
+
+    
 </div>
 
 ---

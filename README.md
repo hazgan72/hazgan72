@@ -3,10 +3,10 @@
 
 <div align="center">
 
-[![github](https://img.shields.io/github/followers/hazgnxvi?label=hazgnxvi&style=social)](https://github.com/hazgnxvi)
-[![discord](https://img.shields.io/static/v1?logo=discord&label=hazgnxvi&message=chat&color=36393f&style=social)](https://discordapp.com/users/428460899171434497)
-[![twitter](https://img.shields.io/twitter/follow/hazgnxvi?label=hazgnxvi&style=social)](https://twitter.com/intent/follow?screen_name=hazgnxvi&tw_p=followbutton)
-[![Twitch Status](https://img.shields.io/twitch/status/hazgnxvi?style=social&label=hazgnxvi)](https://twitch.tv/hazgnxvi)
+[![github](https://img.shields.io/github/followers/hazgan12?label=hazgan12&style=social)](https://github.com/hazgan12)
+[![discord](https://img.shields.io/static/v1?logo=discord&label=hazgan_&message=chat&color=36393f&style=social)](https://discordapp.com/users/428460899171434497)
+[![twitter](https://img.shields.io/twitter/follow/hazgan_?label=hazgan_&style=social)](https://twitter.com/intent/follow?screen_name=hazgan_&tw_p=followbutton)
+[![Twitch Status](https://img.shields.io/twitch/status/hazgan_?style=social&label=hazgan_)](https://twitch.tv/hazgan_)
 
     
 </div>
@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![hazgnxvi stat](https://github-readme-stats.vercel.app/api?username=hazgnxvi&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgnxvi)
+[![hazgnxvi stat](https://github-readme-stats.vercel.app/api?username=hazgan12&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgan12)
 
 </div>
 
@@ -29,7 +29,7 @@ I really like innovation in website development. I am a learner who likes new th
 
 <div align="center">
 
-[![gif](./assets/gif/programmer.gif)](https://github.com/hazgnxvi)
+[![gif](./assets/gif/programmer.gif)](https://github.com/hazgan12)
 </div>
 
 
@@ -41,7 +41,7 @@ I really like innovation in website development. I am a learner who likes new th
 
 ---
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazgnxvi&layout=compact" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan12&layout=compact" />
 
 </div>
 

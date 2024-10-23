@@ -1,10 +1,10 @@
-[![GitHub Header](./assets/img/header%20github.png)](https://github.com/hazgnxvi)
+[![GitHub Header](./assets/img/header%20github.png)](https://github.com/hazgan25)
 
 <div align="center">
 
 [![GitHub Followers](https://img.shields.io/github/followers/hazgan25?label=Followers&style=social)](https://github.com/hazgan25)
 [![Discord](https://img.shields.io/static/v1?logo=discord&label=Discord&message=hazgan_&color=7289da&style=social)](https://discordapp.com/users/428460899171434497)
-[![Twitter](https://img.shields.io/twitter/follow/hazgan_?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=hazan_)
+[![Twitter](https://img.shields.io/twitter/follow/hazgan_?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=hazgan_)
 [![Twitch Status](https://img.shields.io/twitch/status/hazgan_?style=social&label=Watch%20on%20Twitch)](https://twitch.tv/hazgan_)
 
 </div>
@@ -25,18 +25,19 @@ I'm **Hazpi Nurafgan**, a passionate **Full Stack Developer** from **Jakarta, In
 
 ---
 
-### About Me
+### About Me 🧑‍💻
 
 - 👀 **I'm interested in:** Full Stack Development for both web and mobile applications.
 - 🌱 **Currently learning:** *Various technologies and frameworks.*
 - 💼 **Looking to collaborate on:** Web apps and open-source projects.
 - 📫 **Feel free to reach out:** [Send me an email!](mailto:hazgandevs@gmail.com) | Dev's Mail
-
+- 🌐 **My Portfolio:** [Visit my Portfolio](https://hazgan.dev)
+  
 ---
 
-### Explore My Projects
+### Explore My Projects 🚀
 
-Feel free to check out my repositories and see what I'm working on! [Visit my GitHub Repositories](https://github.com/hazgan25?tab=repositories). 
+Feel free to check out my repositories and see what I'm working on! [Visit My GitHub Repositories](https://github.com/hazgan25?tab=repositories). 
 
 ---
 
@@ -50,7 +51,7 @@ Feel free to check out my repositories and see what I'm working on! [Visit my Gi
 
 ---
 
-### Technologies & Tools
+### Technologies & Tools 🛠️
 
 <div align="center">
 
@@ -69,7 +70,7 @@ Feel free to check out my repositories and see what I'm working on! [Visit my Gi
 
 ---
 
-### My Top Languages
+### My Top Languages 🗣️
 
 <div align="center">
 

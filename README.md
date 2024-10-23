@@ -28,16 +28,16 @@ I'm **Hazpi Nurafgan**, a passionate **Full Stack Developer** from **Jakarta, In
 ### About Me 🧑‍💻
 
 - 👀 **I'm interested in:** Full Stack Development for both web and mobile applications.
-- 🌱 **Currently learning:** *Various technologies and frameworks.*
+- 🌱 **Currently learning:** *Various technologies and frameworks.* 
 - 💼 **Looking to collaborate on:** Web apps and open-source projects.
 - 📫 **Feel free to reach out:** [Send me an email!](mailto:hazgandevs@gmail.com) | Dev's Mail
 - 🌐 **My Portfolio:** [Visit my Portfolio](https://hazgan.dev)
-  
+
 ---
 
 ### Explore My Projects 🚀
 
-Feel free to check out my repositories and see what I'm working on! [Visit My GitHub Repositories](https://github.com/hazgan25?tab=repositories). 
+Feel free to check out my repositories and see what I'm working on! [Visit My GitHub Repositories](https://github.com/hazgan25?tab=repositories). I appreciate any feedback or collaboration!
 
 ---
 
@@ -70,11 +70,11 @@ Feel free to check out my repositories and see what I'm working on! [Visit My Gi
 
 ---
 
-### My Top Languages 🗣️
+### Most Used Languages 🗣️
 
 <div align="center">
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan25&layout=compact)](https://github.com/hazgan25)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan25&layout=compact&langs_count=7&card_width=700&hide_title=false&custom_title=Languages)](https://github.com/hazgan25)
 
 </div>
 

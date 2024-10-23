@@ -19,7 +19,7 @@ I'm **Hazpi Nurafgan**, a passionate **Full Stack Developer** from **Jakarta, In
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazgan25&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgan25)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazgan25&show_icons=true&theme=chartreuse-dark&card_width=700)](https://github.com/hazgan25)
 
 </div>
 
@@ -74,7 +74,7 @@ Feel free to check out my repositories and see what I'm working on! [Visit My Gi
 
 <div align="center">
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan25&layout=compact&langs_count=7&card_width=700&hide_title=false&custom_title=Languages)](https://github.com/hazgan25)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan25&layout=compact&langs_count=7&card_width=700&hide_title=false&custom_title=Languages&theme=chartreuse-dark)](https://github.com/hazgan25)
 
 </div>
 
@@ -83,3 +83,5 @@ Feel free to check out my repositories and see what I'm working on! [Visit My Gi
 > _“Never stop learning, because life never stops teaching.”_
 
 <!-- source gif = https://tenor.com/view/programmer-gif-19019116 -->
+
+

@@ -15,7 +15,7 @@
 
 <div align="center">
 
-[![hazgnxvi stat](https://github-readme-stats.vercel.app/api?username=hazgan12&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgan12)
+[![hazgan25 stat](https://github-readme-stats.vercel.app/api?username=hazgan25&show_icons=true&theme=chartreuse-dark)](https://github.com/hazgan25)
 
 </div>
 
@@ -29,7 +29,7 @@ I really like innovation in website development. I am a learner who likes new th
 
 <div align="center">
 
-[![gif](./assets/gif/programmer.gif)](https://github.com/hazgan12)
+[![gif](./assets/gif/programmer.gif)](https://github.com/hazgan25)
 </div>
 
 
@@ -37,7 +37,7 @@ I really like innovation in website development. I am a learner who likes new th
 👀 I’m interested in Website Development
 🌱 I’m currently learning HTML, CSS, Js, PHP, and other frameworks website based
 💞️ I’m looking to collaborate on Web Apps
-📫 How to reach me <a href="mailto:hazgnxvixv@gmail.com">Send an Email </a>( 2nd email )
+📫 How to reach me <a href="mailto:hazgandevs@gmail.com">Send an Email </a>( 2nd email / dev mail )
 
 ---
 

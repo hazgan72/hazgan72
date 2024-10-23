@@ -3,7 +3,7 @@
 
 <div align="center">
 
-[![github](https://img.shields.io/github/followers/hazgan12?label=hazgan12&style=social)](https://github.com/hazgan12)
+[![github](https://img.shields.io/github/followers/hazgan25?label=hazgan25&style=social)](https://github.com/hazgan25)
 [![discord](https://img.shields.io/static/v1?logo=discord&label=hazgan_&message=chat&color=36393f&style=social)](https://discordapp.com/users/428460899171434497)
 [![twitter](https://img.shields.io/twitter/follow/hazgan_?label=hazgan_&style=social)](https://twitter.com/intent/follow?screen_name=hazgan_&tw_p=followbutton)
 [![Twitch Status](https://img.shields.io/twitch/status/hazgan_?style=social&label=hazgan_)](https://twitch.tv/hazgan_)

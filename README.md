@@ -13,7 +13,7 @@
 
 ### Hi there! 👋 Welcome to my GitHub profile
 
-I'm **Hazpi Nurafgan**, a passionate **Full Stack Developer** from **Jakarta, Indonesia**. I love exploring innovations in web development and am always eager to learn and improve my skills.
+I'm **Hazpi Nurafgan**, a passionate **Software Engineer** from **Jakarta, Indonesia**. I love exploring innovations in software development and am always eager to learn and improve my skills.
 
 ---
 
@@ -27,9 +27,9 @@ I'm **Hazpi Nurafgan**, a passionate **Full Stack Developer** from **Jakarta, In
 
 ### About Me 🧑‍💻
 
-- 👀 **I'm interested in:** Full Stack Development for both web and mobile applications.
-- 🌱 **Currently learning:** *Various technologies and frameworks.* 
-- 💼 **Looking to collaborate on:** Web apps and open-source projects.
+- 👀 **I'm interested in:** Software Engineering, focusing on both web and mobile applications.
+- 🌱 **Currently learning:** *New technologies, frameworks, and best practices in software development.*
+- 💼 **Looking to collaborate on:** Software projects, web apps, and open-source contributions.
 - 📫 **Feel free to reach out:** [Send me an email!](mailto:hazgandevs@gmail.com) | Dev's Mail
 - 🌐 **My Portfolio:** [Visit my Portfolio](https://hazgan.dev)
 

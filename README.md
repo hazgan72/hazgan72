@@ -1,8 +1,8 @@
-[![GitHub Header](./assets/img/header%20github.png)](https://github.com/hazgan25)
+[![GitHub Header](./assets/img/header%20github.png)](https://github.com/hazgan72)
 
 <div align="center">
 
-[![GitHub Followers](https://img.shields.io/github/followers/hazgan25?label=Followers&style=social)](https://github.com/hazgan25)
+[![GitHub Followers](https://img.shields.io/github/followers/hazgan72?label=Followers&style=social)](https://github.com/hazgan72)
 [![Discord](https://img.shields.io/static/v1?logo=discord&label=Discord&message=hazgan_&color=7289da&style=social)](https://discordapp.com/users/428460899171434497)
 [![Twitter](https://img.shields.io/twitter/follow/hazgan_?label=Follow%20on%20Twitter&style=social)](https://twitter.com/intent/follow?screen_name=hazgan_)
 [![Twitch Status](https://img.shields.io/twitch/status/hazgan_?style=social&label=Watch%20on%20Twitch)](https://twitch.tv/hazgan_)
@@ -19,7 +19,7 @@ I'm **Hazpi Nurafgan**, a passionate **Software Engineer** from **Jakarta, Indon
 
 <div align="center">
 
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazgan25&show_icons=true&theme=blue-green&card_width=700)](https://github.com/hazgan25)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hazgan72&show_icons=true&theme=blue-green&card_width=700)](https://github.com/hazgan72)
 
 </div>
 
@@ -37,13 +37,13 @@ I'm **Hazpi Nurafgan**, a passionate **Software Engineer** from **Jakarta, Indon
 
 ### Explore My Projects 🚀
 
-Feel free to check out my repositories and see what I'm working on! [Visit My GitHub Repositories](https://github.com/hazgan25?tab=repositories). I appreciate any feedback or collaboration!
+Feel free to check out my repositories and see what I'm working on! [Visit My GitHub Repositories](https://github.com/hazgan72?tab=repositories). I appreciate any feedback or collaboration!
 
 ---
 
 <div align="center">
   
-  [![Programming GIF](./assets/gif/programmer.gif)](https://github.com/hazgan25)
+  [![Programming GIF](./assets/gif/programmer.gif)](https://github.com/hazgan72)
   
   _Here’s a glimpse of my passion for coding!_
 
@@ -74,7 +74,7 @@ Feel free to check out my repositories and see what I'm working on! [Visit My Gi
 
 <div align="center">
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan25&layout=compact&langs_count=7&card_width=700&hide_title=false&custom_title=Languages&theme=blue-green)](https://github.com/hazgan25)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hazgan72&layout=compact&langs_count=7&card_width=700&hide_title=false&custom_title=Languages&theme=blue-green)](https://github.com/hazgan72)
 
 </div>
 
